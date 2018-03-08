@@ -5,4 +5,5 @@ function updatePlaylist(playlist, artistName, songTitle)
   return playlist
 }
 
-delete playlist.Kanye
+function removeFromPlaylist(playlist, artistName)
+{
