@@ -1,4 +1,4 @@
-var playlist = { 'Kanye': "Gold Digger"};
+var playlist = { 'Kanye': 'Gold Digger', 'Guns and Roses': 'Paradise City'};
 function updatePlaylist(playlist, artistName, songTitle)
 { 
   playlist[artistName] = songTitle 
